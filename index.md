@@ -10,11 +10,14 @@ header:
     - label: "Get in touch!"
       url: "mailto:consulting@liudaniel.com"
 excerpt: "Performance-focused bioinformatics software consultancy"
+intro:
+  - excerpt: |
+      We specialize in software and algorithms development.
+      We will work with you to tackle your challenging bioinformatics problems.
+
+      We care about efficiency and reliability.
+      Typical sequencing experiments generate millions or billions of reads.
+      We write software that easily scales to such experiments.
 ---
 
-We specialize in software and algorithms development.
-We will work with you to tackle your challenging bioinformatics problems.
-
-We care about efficiency and reliability.
-Typical sequencing experiments generate millions or billions of reads.
-We write software that easily scales to such experiments.
+{% include feature_row id="intro" type="left" %}
