@@ -29,7 +29,7 @@ feature_row:
 
 services:
   - excerpt: |
-      ## Our Services
+      # Our Services
 
 feature_row2:
   - image_path: "data:,"
@@ -44,7 +44,7 @@ feature_row2:
 
 testimonials:
   - excerpt: |
-      ## Testimonials
+      # Testimonials
       "Such cool much wow" *- First Last*
 ---
 
